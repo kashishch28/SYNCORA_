@@ -26,9 +26,9 @@ Opens on `http://localhost:5173`. Vite proxies `/api` -> backend.
 
 ## Dashboard
 
-![Login Page](./screenshots/Login_page.png)
-![Dashboard](./screenshots/Main_Dashboard.png)
-![Journal](./screenshots/Music+Journal.png)
+![Login_page](./syncora/screenshots/Login_page.png)
+![Dashboard](./syncora/screenshots/Dashboard.png)
+![Journal](./syncora/screenshots/Music+Journal.png)
 
 
 ## Fixes vs. the original prototype
